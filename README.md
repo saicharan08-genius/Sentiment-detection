@@ -2,4 +2,4 @@
 
 This is a CLI C++ Software which detects your emotions based on your response to 'how are you'.
 This technology can be used in complex ChatBots to make software respond smartly and can lay the
-foundation for future AI based ChatBots.
+foundation for future AI based ChatBots. E-mail me at saicharan.mugunthan@gmail.com to contribute.
