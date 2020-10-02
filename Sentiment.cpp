@@ -1,6 +1,7 @@
 /*
 
 This is a C++ software to find your emotion by how you are responding to this simple question
+E-mail me at saicharan.mugunthan@gmail.com to contribute.
 
 */
 
